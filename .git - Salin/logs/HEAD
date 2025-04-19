@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 d6ba27ebe7fb9174e9ba1e4215d61e4d680a92c3 InnaAsilniRahmawati <innaasilni18@gmail.com> 1744127757 +0700	clone: from https://github.com/RPL-SI-2025/TATAFIX_TIM_340__SI4610.git
+d6ba27ebe7fb9174e9ba1e4215d61e4d680a92c3 8a7b9d1e600ab3c65bbe659359a617133166f82e InnaAsilniRahmawati <innaasilni18@gmail.com> 1744130068 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward
+8a7b9d1e600ab3c65bbe659359a617133166f82e 519f595d790a4948792700e00f75778d00808e9b InnaAsilniRahmawati <innaasilni18@gmail.com> 1744130138 +0700	commit: register 1
+519f595d790a4948792700e00f75778d00808e9b 13d611912a8e2c1a2cfd3aee28e43d09b8044f33 InnaAsilniRahmawati <innaasilni18@gmail.com> 1744395199 +0700	checkout: moving from main to TATAFIX-1-PBI-MVP-01-MVP-03-Registrasi-dan-Verifikasi-Email
+13d611912a8e2c1a2cfd3aee28e43d09b8044f33 6d54e7c79b2f97c318155caeeab22781e753299d InnaAsilniRahmawati <innaasilni18@gmail.com> 1744911264 +0700	commit: Update register tampilan dan database
+6d54e7c79b2f97c318155caeeab22781e753299d 6d54e7c79b2f97c318155caeeab22781e753299d InnaAsilniRahmawati <innaasilni18@gmail.com> 1745077627 +0700	reset: moving to HEAD
+6d54e7c79b2f97c318155caeeab22781e753299d f3aa0283833391ef354d9e2abb5f9fd2325d5a70 InnaAsilniRahmawati <innaasilni18@gmail.com> 1745077631 +0700	pull --ff --recurse-submodules --progress origin: Fast-forward

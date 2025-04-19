@@ -1,0 +1,5 @@
+d6ba27ebe7fb9174e9ba1e4215d61e4d680a92c3 2f095e40ce664063a05bbaaaf2d67de9c2dd1e7a InnaAsilniRahmawati <innaasilni18@gmail.com> 1744129650 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+2f095e40ce664063a05bbaaaf2d67de9c2dd1e7a 8a7b9d1e600ab3c65bbe659359a617133166f82e InnaAsilniRahmawati <innaasilni18@gmail.com> 1744130067 +0700	pull --ff --recurse-submodules --progress origin: fast-forward
+8a7b9d1e600ab3c65bbe659359a617133166f82e 519f595d790a4948792700e00f75778d00808e9b InnaAsilniRahmawati <innaasilni18@gmail.com> 1744130147 +0700	update by push
+519f595d790a4948792700e00f75778d00808e9b 7e33d7ec6d7e0f584ef9056a0350c5cac4c8d9fa InnaAsilniRahmawati <innaasilni18@gmail.com> 1744132167 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
+7e33d7ec6d7e0f584ef9056a0350c5cac4c8d9fa 13d611912a8e2c1a2cfd3aee28e43d09b8044f33 InnaAsilniRahmawati <innaasilni18@gmail.com> 1744376778 +0700	fetch --progress --prune --recurse-submodules=on-demand origin: fast-forward
